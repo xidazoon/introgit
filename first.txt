@@ -1,2 +1,4 @@
 git‚Ì—ûK‚ğ‚·‚é
 ‹ï‘Ì“I‚È—ûK‚ğ‚µ‚Ü‚·
+- git add
+- git commit
