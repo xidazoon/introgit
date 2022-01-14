@@ -1,4 +1,4 @@
 
 escを押してコマンドモードに切り替える
 :wqで保存する
-
+git is easy to master!
